@@ -1,0 +1,6 @@
+{
+  "name": "Weight Log & Calendar Reminder",
+  "description": "Log your body weight and automatically schedule weekly Google Calendar reminder invites to stay consistent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
